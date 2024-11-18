@@ -8,3 +8,17 @@ Graphical representation of income and expenses of the individual is another fea
 The app is designed and developed using JAVA, XML, and SQLite as the backend database.
 
 This work is done as part of SOFTWARE PACKAGE DEVELOPMENT project course taken in SRM trp engineering College (5th semester)
+
+Overview:
+Sign up and login
+
+
+Users can create an account in the app by entering name, email id, mobile number, and a password.The user can set a budget amount (optional) for the account during sign up.
+Users can login into the account by entering email id and password used to sign up for an account.After login the user is displayed with tip of the day in the splash screen.
+
+Dashboard and Adding Income
+
+
+Users are led to the dashboard after they login.
+This dashboard gives an overall view of income and expenditures of the user in the month, shows latest transactions and contains navigating links to all other screens such as alerts screen, transactions screen, add income screen, add expense screen and scan screen.
+In the add income screen, users can add income manually using UI.
