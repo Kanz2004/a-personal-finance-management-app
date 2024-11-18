@@ -32,4 +32,4 @@ This screen also displays the current budget and options to add new reminder and
 
 "Reminders and Budget module:"
 Users can set reminders and can view it from the alerts screen.
-The users can also set or change the monthly budget according to which alerts are sent to the user when the user continues spending beyond half of the allocated budget amount.
+The users can also set or change the monthly budget according to which alerts are sent to the user when the user continues spending beyond half of the allocated budget amount..
